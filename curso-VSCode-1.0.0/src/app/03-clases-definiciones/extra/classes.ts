@@ -1,4 +1,4 @@
-export class SuperHeroe {
+export class Heroe {
 
     nombre: string;
     poder: string;
@@ -7,14 +7,14 @@ export class SuperHeroe {
 
     constructor() { }
 
-    usarPoder() {}
+    usarPoder() { }
 
-    volar() {}
+    volar() { }
 
-    correr() {}
+    correr() { }
 
-    caminar() {}
+    caminar() { }
 
-    revivir() {}
+    revivir() { }
 
 }
