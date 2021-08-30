@@ -1,5 +1,11 @@
 
 
+export class NuevoSuperHeroe {
+
+    constructor() {
+
+    }
+}
 
 
 
